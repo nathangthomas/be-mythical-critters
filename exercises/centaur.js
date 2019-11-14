@@ -63,7 +63,6 @@ module.exports = Centaur
 
 
 // left this in order to explore later why this did not work.
-
 // class Centaur{
 //   constructor(name, breed){
 //     this.name = name;
